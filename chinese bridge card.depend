@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1543357593 source:g:\编程趣味题\chinese bridge card\main.cpp
+	<iostream>
+
+1543357820 source:g:\编程趣味题\chinese bridge card\color.cpp
+	<iostream>
+	<string>
+
+1543358066 source:g:\编程趣味题\chinese bridge card\card.cpp
+	"Color.cpp"
+
+1543357820 g:\编程趣味题\chinese bridge card\color.cpp
+	<iostream>
+	<string>
+
+1543358199 source:g:\编程趣味题\chinese bridge card\player.cpp
+	"Card.cpp"
+
+1543358066 g:\编程趣味题\chinese bridge card\card.cpp
+	"Color.cpp"
+
+1543358274 source:g:\编程趣味题\chinese bridge card\record.cpp
+	"Card.cpp"
+
+1543358322 source:g:\编程趣味题\chinese bridge card\rule.cpp
+	"Card.cpp"
+
+1543358467 source:g:\编程趣味题\chinese bridge card\settings.cpp
+	<stdio.h>
+
+1543358137 source:g:\编程趣味题\chinese bridge card\dealer.cpp
+	"Player.cpp"
+	"Record.cpp"
+
+1543358199 g:\编程趣味题\chinese bridge card\player.cpp
+	"Card.cpp"
+
+1543358274 g:\编程趣味题\chinese bridge card\record.cpp
+	"Card.cpp"
+
+1543358409 source:g:\编程趣味题\chinese bridge card\table.cpp
+	"Record.cpp"
+	"Player.cpp"
+
+1543358969 source:g:\编程趣味题\chinese bridge card\game.cpp
+	<list>
+	"Dealer.cpp"
+	"Record.cpp"
+	"Rule.cpp"
+	"Settings.cpp"
+	"Table.cpp"
+
+1543359557 g:\编程趣味题\chinese bridge card\dealer.cpp
+	"Player.cpp"
+	"Record.cpp"
+
+1543358322 g:\编程趣味题\chinese bridge card\rule.cpp
+	"Card.cpp"
+
+1543358467 g:\编程趣味题\chinese bridge card\settings.cpp
+	<stdio.h>
+
+1543358409 g:\编程趣味题\chinese bridge card\table.cpp
+	"Record.cpp"
+	"Player.cpp"
+
+1543358969 g:\编程趣味题\chinese bridge card\game.cpp
+	<list>
+	"Dealer.cpp"
+	"Record.cpp"
+	"Rule.cpp"
+	"Settings.cpp"
+	"Table.cpp"
+
