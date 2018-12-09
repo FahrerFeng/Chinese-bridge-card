@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1544369824 source:g:\program file\chinese bridge card\main.cpp
+	<iostream>
+	"Card.h"
+	"Dealer.h"
+	"Player.h"
+	<stdio.h>
+
+1544276720 source:g:\program file\chinese bridge card\src\color.cpp
+	"Color.h"
+
+1544281611 g:\program file\chinese bridge card\include\color.h
+	<iostream>
+	<string>
+
+1544366585 source:g:\program file\chinese bridge card\src\game.cpp
+	"Game.h"
+
+1544370920 g:\program file\chinese bridge card\include\game.h
+	<vector>
+	<iomanip>
+	"Card.h"
+	"Dealer.h"
+	"Rule.h"
+	"Player.h"
+	"Record.h"
+	"GameStatus.h"
+
+1544367998 source:g:\program file\chinese bridge card\src\card.cpp
+	"Card.h"
+
+1544365840 g:\program file\chinese bridge card\include\card.h
+	<vector>
+	<string>
+	"Color.h"
+
+1544365717 g:\program file\chinese bridge card\include\dealer.h
+	"Card.h"
+	"Player.h"
+	<algorithm>
+
+1544369251 source:g:\program file\chinese bridge card\src\dealer.cpp
+	"Dealer.h"
+
+1544280215 g:\program file\chinese bridge card\include\rule.h
+
+1544280127 source:g:\program file\chinese bridge card\src\rule.cpp
+	"Rule.h"
+
+1544366792 g:\program file\chinese bridge card\include\player.h
+	<vector>
+	<iomanip>
+	<algorithm>
+	"Card.h"
+
+1544368239 source:g:\program file\chinese bridge card\src\player.cpp
+	"Player.h"
+
+1544280741 source:g:\program file\chinese bridge card\src\record.cpp
+	"Record.h"
+
+1544280760 g:\program file\chinese bridge card\include\record.h
+
+1544280912 source:g:\program file\chinese bridge card\src\gamestatus.cpp
+	"GameStatus.h"
+
+1544280935 g:\program file\chinese bridge card\include\gamestatus.h
+
